@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Husoski
-- 👀 I’m interested in Python, C, C++, Java, Ruby, Haskell
+- 👀 I’m interested in coding (Python, C, C++, Java, Ruby, Haskell mostly), guitar (acoustic mostly), puzzles, math, more...
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on n/a
 - 📫 How to reach me: PM at CodingGame.com is good.
